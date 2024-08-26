@@ -14,6 +14,6 @@ PHP | Java| IntelliJ| MySQL| Netbeans| VSCode | HTML | CSS |
 
 - 🔭 I’m currently working on this page, actually!
 - 🌱 I’m currently learning Java Spring Boot
-- 📫 How to reach me: 
+- 📫 How to reach me: Github and LinkedIn!
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like learning other langauges, particularly Japanese and Hebrew.
