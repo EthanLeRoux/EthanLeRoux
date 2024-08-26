@@ -1,4 +1,4 @@
-## Hi there 👋
+## Greetings!
 
 My name is **Ethan LeRoux**. I am a Cape Peninsula of Technology student, and currently a second year taking DIP ICT Applications Development.
 
