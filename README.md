@@ -1,16 +1,18 @@
 ## Hi there 👋
 
 <!--
-**EthanLeRoux/EthanLeRoux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is **Ethan LeRoux**. I am a Cape Peninsula of Technology student, and currently a second year taking DIP ICT Applications Development.
 
-Here are some ideas to get you started:
+I like buidling tools, and things that can make life simpler, which is why I code!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**Skills**
+Project Management| 
+
+**Tools**
+PHP|Java|IntelliJ|MySQL|Netbeans|VSCode|HTML|CSS|
+- 🔭 I’m currently working on this page, actually!
+- 🌱 I’m currently learning Java Spring Boot
+- 📫 How to reach me: 
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I like learning other langauges, particularly Japanese and Hebrew.
 -->
