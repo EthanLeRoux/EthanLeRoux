@@ -10,8 +10,6 @@ Project Management |
 
 **Tools**
 
-PHP | Java| IntelliJ| MySQL| Netbeans| VSCode | HTML | CSS |
-
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react,java,js,spring,ts,php,webstorm,idea,phpstorm,postman)](https://skillicons.dev)
 
 - 🔭 I’m currently working on this page, actually!
