@@ -12,6 +12,8 @@ Project Management |
 
 PHP | Java| IntelliJ| MySQL| Netbeans| VSCode | HTML | CSS |
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 - 🔭 I’m currently working on this page, actually!
 - 🌱 I’m currently learning Java Spring Boot
 - 📫 How to reach me: Github and LinkedIn!
