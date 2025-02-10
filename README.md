@@ -10,7 +10,7 @@ Project Management |
 
 **Tools**
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react,java,spring,ts,php,webstorm,idea,phpstorm,postman,py,django)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react,java,spring,ts,php,webstorm,idea,phpstorm,postman,py,django,vscode)](https://skillicons.dev)
 
 - 🔭 I’m currently working on this page, actually!
 - 🌱 I’m currently learning Java Spring Boot
