@@ -1,6 +1,6 @@
 ## Greetings!
 
-My name is **Ethan Le Roux**. I am an aspiring junior software developer, having completed a diploma in **ICT: Applications Development**.
+My name is **Ethan Le Roux**. I am an aspiring software developer, having completed a diploma in **ICT: Applications Development**.
 
 I like building things that can make life simpler, which is why I code!
 
