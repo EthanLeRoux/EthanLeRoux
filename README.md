@@ -6,11 +6,11 @@ I like building things that can make life simpler, which is why I code!
 
 **Skills**
 
-Project Management |
+Project Management | Leadership | Teamwork | Organisation
 
 **Tools**
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react,java,spring,ts,webstorm,idea,phpstorm,postman,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react,java,spring,ts,webstorm,idea,postman,vscode)](https://skillicons.dev)
 
 - 🔭 I’m currently working on this page, actually!
 - 🌱 I’m currently learning Java Spring Boot
