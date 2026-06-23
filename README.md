@@ -10,7 +10,7 @@ Long-term, I want to pursue a Master's and eventually teach. Until then, I'm shi
 
 - **[Benkyo.ai](https://newbenkyo.vercel.app)** — AI-powered flashcard and spaced repetition platform (React, Expo, Node.js, Firebase, Claude API). Solo full-stack build with web and mobile clients on a shared backend.
 - **[Chōkan](https://doi.org/10.5281/zenodo.20398163)** — Independently authored research paper proposing a graph-based architectural pattern that replaces rigid hierarchies with similarity-weighted relational graphs. Published on Zenodo.
-- **Localhost: Dev Collective** — A community I founded for junior and student developers. Peer learning, collaboration, and mentorship.
+- **[Localhost: Dev Collective](https://www.linkedin.com/company/133534038/)** — A community I founded for junior and student developers. Peer learning, collaboration, and mentorship.
 
 ---
 
