@@ -1,6 +1,6 @@
 ## Hey, I'm Ethan 👋
 
-Graduate full-stack engineer based in Cape Town, South Africa. I build tools that solve real problems — from AI-powered study platforms to graph-based architectural research. Currently interning at **Plum Systems** while completing an **Occupational Certificate in Cybersecurity Analysis**.
+Graduate full-stack engineer based in Cape Town, South Africa. I build tools that solve real problems — from AI-powered study platforms to graph-based architectural research. Currently completing an **Occupational Certificate in Cybersecurity Analysis**.
 
 Long-term, I want to pursue a Master's and eventually teach. Until then, I'm shipping.
 
