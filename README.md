@@ -24,7 +24,7 @@ Also working with: React Native · Expo · Redux · Neo4j · Claude API · Cisco
 
 ### A few things about me
 
-- 🔭 Currently: internship at Plum Systems (React, React Native, Agile) + cybersecurity coursework
+- 🔭 Currently: cybersecurity coursework
 - 🧠 Research interests: graph theory, systems architecture, AI-augmented development
 - 🌐 Languages: English · Afrikaans · Japanese (self-study, intermediate)
 - 🎵 Outside of code: clarinet, choir, drawing, anime, fitness
@@ -32,6 +32,4 @@ Also working with: React Native · Expo · Redux · Neo4j · Claude API · Cisco
 ---
 
 ### Connect
-
-📧 ethanleroux119@gmail.com  
 💼 [LinkedIn](https://www.linkedin.com/in/ethan-le-roux-518378237)
